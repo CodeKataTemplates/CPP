@@ -1,5 +1,5 @@
 //
-// Created by Joakim Nohlgård on 2020-02-20.
+// Kata test cases
 //
 
 #include "CodeKata.h"
